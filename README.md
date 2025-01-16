@@ -1,2 +1,1 @@
-# DS_ML_Project_collaboration
-This repository is for Google Colab and GitHub Integration practice for the project.
+# Colab Integration This repository is for practicing Google Colab and GitHub integration.
